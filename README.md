@@ -2,7 +2,7 @@
 An application that will segment customers into different groups based on their personal information and purchasing behavior. 
 
 You can run the app here-
-http://localhost:8501/
+https://customer-segmentation-project-hwejay8gzgspgwx9tbsurb.streamlit.app/
 
 The application will take input data from the user such as age, annual income, spending score, purchase frequency, online purchases, and total spending, and use the trained K-Means clustering model to predict the customer segment.
 
