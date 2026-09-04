@@ -7,14 +7,14 @@ The application will take input data from the user such as age, annual income, s
 
 The project contains the following files:
 
-customer_segmentation.csv – the dataset used for customer segmentation 
+• customer_segmentation.csv – the dataset used for customer segmentation 
 
-customer_segmentation.ipynb – a notebook containing data analysis, visualization, preprocessing, and model training
+• customer_segmentation.ipynb – a notebook containing data analysis, visualization, preprocessing, and model training
 
-index.txt – notes containing dataset analysis and key statistics
+• index.txt – notes containing dataset analysis and key statistics
 
-kmeans_model.pkl – the trained K-Means clustering model
+• kmeans_model.pkl – the trained K-Means clustering model
 
-scaler.pkl – the scaler used to standardize the customer data
+• scaler.pkl – the scaler used to standardize the customer data
 
-segmentation.py – the Python script for customer segmentation and prediction
+• segmentation.py – the Python script for customer segmentation and prediction
